@@ -1,6 +1,6 @@
- Olá! Eu sou o Pedro 👋
- 20 anos
- Estudo para me tornar um bom Dev Front-end
+ Olá! Eu sou o Pedro 👋 <br>
+ 20 anos <br>
+ Estudo para me tornar um bom Dev Front-end <br>
 
 
 <div>

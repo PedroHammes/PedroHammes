@@ -1,5 +1,5 @@
- <h1> - Olá! Eu sou o Pedro 👋 </h1> <br>
- <h1> - 20 anos </h1><br>
+ <h1> Olá! Eu sou o Pedro 👋 </h1> <br>
+ 📆 09/03/2001 - 20 anos <br>
 
 
 <div>
